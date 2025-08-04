@@ -44,7 +44,8 @@ Este repositório continuará crescendo à medida que avanço na faculdade e nos
 
 ## 📩 Contato
 
-Se quiser conversar sobre tecnologia, dados ou oportunidades, me encontre por aqui:  
+Se quiser conversar sobre tecnologia, dados ou oportunidades, me encontre por aqui:
+
 📧 [E-mail](janismalkiewiez15@hotmail.com) | 🔗 [Linkedin](https://www.linkedin.com/in/janis-malkiewiez-0a6666311/)
 
 ---
